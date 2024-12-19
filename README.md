@@ -24,3 +24,6 @@ Technical Stack:
 - Google Colab for deployment
 
 This project demonstrates practical applications of machine learning in image processing while maintaining simplicity and usability for end users. It's an excellent example of how AI can enhance traditional image manipulation techniques.
+
+![image](https://github.com/user-attachments/assets/74595be5-156f-48be-aa5a-bd369591bbd8)
+
