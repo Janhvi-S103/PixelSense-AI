@@ -52,7 +52,7 @@ This project is a practical demonstration of how **AI can elevate traditional im
 ## 🙋‍♀️ Author
 
 **Janhvi Shukla**  
-🔗 [LinkedIn](https://linkedin.com/in/janhvishukla) • 🌐 [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/janhvi-shukla103/) • 🌐 [Portfolio](https://janhvi-shukla.netlify.app/home)
 
 ---
 
